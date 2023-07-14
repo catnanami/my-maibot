@@ -1,0 +1,2 @@
+# my-maibot
+mybot
